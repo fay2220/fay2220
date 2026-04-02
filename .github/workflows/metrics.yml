@@ -12,7 +12,7 @@ jobs:
         uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          user: YOUR_USERNAME
+          user: fay2220
 
           base: header, activity, community
           plugin_languages: yes
