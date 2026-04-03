@@ -17,8 +17,3 @@ Welcome to my GitHub! I'm passionate about building scalable applications and co
 <p align="center">
 <img src="https://i.pinimg.com/736x/db/ac/c6/dbacc631a5e8fa57e27c6cf3ef49b6bd.jpg" width="30%" alt="Developer Meme" style="vertical-align: middle;" />
 </p>
-<p align="center">
-  <i>" The heavy, endless struggle that seems pointless... <br>
-  Until the moment we finally overcome the problem. And then, the ultimate question arises: 'What to do next?' <br>
-  What did all that past effort even mean? "</i>
-</p>
