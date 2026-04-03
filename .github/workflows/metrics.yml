@@ -19,3 +19,4 @@ jobs:
           base: header, activity, community
           plugin_languages: yes
           plugin_isocalendar: yes
+          debug: yes
