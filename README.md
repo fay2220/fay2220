@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00c9a7&height=220&section=header&text=Fay&fontSize=45&fontColor=ffffff&animation=fadeIn)
-# Hi there, I'm Fay! 👋
-**I'm from Thammasat University,TU-SOFTEN 10 | Beginner :> Fullstack, Mobile App & WebApp Developer**
+## Hi there, I'm Fay 👋
+
+🎓 Thammasat University | TU-SOFTEN 10  
+💻 Fullstack, Mobile & Web Developer  
+
+I build applications focused on improving quality of life through technology.
 
 Welcome to my GitHub! I'm passionate about building scalable applications and continuously expanding my technical toolkit. 
 
