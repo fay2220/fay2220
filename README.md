@@ -13,12 +13,12 @@ Welcome to my GitHub! I'm passionate about building scalable applications and co
 
 ### Me in everyday:
 <p align="center" style="margin-top: 30px; margin-bottom: 30px;">
-  <img src="https://media.licdn.com/dms/image/v2/D5612AQGr5lW9V78jKg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1726056345714?e=2147483647&v=beta&t=7y2Nl7M839_D6Nl2LgE4L0Lp9G5C3i5P1k1Y5S9y1Q" 
+  <img src="https://i1.sndcdn.com/artworks-2NSQLuOzfYFIuklP-2jIlCw-t1080x1080.jpg" 
        height="280" style="vertical-align: middle; border: none; margin: 0 15px;">
   
   <span style="font-size: 100px; color: white; vertical-align: middle; font-weight: bold; margin: 0 15px; display: inline-block;">➔</span>
   
-  <img src="https://i.redd.it/now-what-lmao-v0-5w534y2a6k0c1.jpeg?auto=webp&s=f36f363c113e1c601f05786411546b5a3f3b97b0" 
+  <img src="https://i.pinimg.com/736x/db/ac/c6/dbacc631a5e8fa57e27c6cf3ef49b6bd.jpg" 
        height="280" style="vertical-align: middle; border: none; margin: 0 15px;">
 </p>
 <p align="center">
