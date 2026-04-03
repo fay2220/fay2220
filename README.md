@@ -12,3 +12,6 @@ Welcome to my GitHub! I'm passionate about building scalable applications and co
 </div>
 
 
+<div align="center">
+  <img src="./metrics.plugin.screenshot.svg" width="80%" alt="XKCD of the day" />
+</div>
