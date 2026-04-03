@@ -39,3 +39,14 @@ jobs:
           plugin_topics_limit: 0
           plugin_topics_mode: icons
 
+      - name: XKCD of the day
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.screenshot.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_screenshot: yes
+          plugin_screenshot_title: XKCD of the day
+          plugin_screenshot_url: https://miro.medium.com/1*zW3S02mX5hqkpBBx1YUWhQ.jpeg
+          plugin_screenshot_selector: "#comic img"
+
