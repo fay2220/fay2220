@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm passionate about building scalable applications and co
 
 ### Me in everyday:
 <p align="center">
-  <img src="https://i1.sndcdn.com/artworks-2NSQLuOzfYFIuklP-2jIlCw-t1080x1080.jpg" width="30%" alt="Developer Meme" style="vertical-align: middle;" /> <span style="font-size: 80px; vertical-align: middle; margin: 0 20px;">➔</span> <img src="https://i.pinimg.com/736x/db/ac/c6/dbacc631a5e8fa57e27c6cf3ef49b6bd.jpg" width="30%" alt="Developer Meme" style="vertical-align: middle;" />
+<img src="https://i.pinimg.com/736x/db/ac/c6/dbacc631a5e8fa57e27c6cf3ef49b6bd.jpg" width="30%" alt="Developer Meme" style="vertical-align: middle;" />
 </p>
 <p align="center">
   <i>" The heavy, endless struggle that seems pointless... <br>
