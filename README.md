@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=0:0f2027,100:00c9a7&height=250&section=header&text=Fay&desc=Fullstack%20Developer&descSize=20&descAlignY=70&fontSize=55&fontColor=ffffff)
-## Hi there, I'm Fay 👋
 
 🎓 Thammasat University | TU-SOFTEN 10  
 💻 Fullstack, Mobile & Web Developer  
