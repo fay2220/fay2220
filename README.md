@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm passionate about building scalable applications and co
 
 ### 🗓️ My Commit Calendar
 <div align="center">
-  <img src="./metrics.plugin.isocalendar.fullyear.svg" width="ึ90%" alt="Full Year Isometric Commit Calendar" />
+  <img src="./metrics.plugin.isocalendar.fullyear.svg" width="ึ100%" alt="Full Year Isometric Commit Calendar" />
 </div>
 
 
