@@ -13,7 +13,4 @@ Welcome to my GitHub! I'm passionate about building scalable applications and co
   <img src="./metrics.plugin.isocalendar.fullyear.svg" width="ึ100%" alt="Full Year Isometric Commit Calendar" />
 </div>
 
-### Me :
-<p align="center">
-<img src="https://i.pinimg.com/736x/db/ac/c6/dbacc631a5e8fa57e27c6cf3ef49b6bd.jpg" width="30%" alt="Developer Meme" style="vertical-align: middle;" />
-</p>
+
