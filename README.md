@@ -13,5 +13,5 @@ Welcome to my GitHub! I'm passionate about building scalable applications and co
 
 ### Me in everyday:
 <div align="center">
-  <img src="https://i.pinimg.com/736x/db/ac/c6/dbacc631a5e8fa57e27c6cf3ef49b6bd.jpg" width="50%" alt="Developer Meme" />
+  <img src="https://i.pinimg.com/736x/db/ac/c6/dbacc631a5e8fa57e27c6cf3ef49b6bd.jpg" width="30%" alt="Developer Meme" />
 </div>
