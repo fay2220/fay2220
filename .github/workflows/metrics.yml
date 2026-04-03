@@ -8,7 +8,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # <--- เพิ่ม 2 บรรทัดนี้เพื่อให้ Actions เซฟรูปลง Repo ได้
+      contents: write 
     steps:
       - name: Metrics embed
         uses: lowlighter/metrics@v3.34
