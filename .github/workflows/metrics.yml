@@ -1,35 +1,17 @@
 name: Metrics
-
 on:
+  # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
   workflow_dispatch:
-
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - name: 🦑 General Metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          user: fay2220
-          
-       
-          filename: general.svg
-          base: header
-          base_indepth: yes
-          config_order: base.header, isocalendar, languages
-          
-          # ปฏิทิน
-          plugin_isocalendar: yes
-          
-         
-          plugin_languages: yes
-          plugin_languages_ignored: html, css, dockerfile, makefile, shell
-          plugin_languages_details: lines, bytes-size, percentage
-          plugin_languages_sections: most-used, recently-used
-          plugin_languages_indepth: yes
-          plugin_languages_limit: 8
-          debug: yes
