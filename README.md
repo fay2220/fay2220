@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=Fay&desc=Developer%20Trainee&descSize=20&descAlignY=70&fontSize=55&fontColor=00c9a7&descColor=gradient&animation=fadeIn)
-
+###Hiii I'm Fay ,Dev trainee
 🎓 Thammasat University | TU-SOFTEN 10  
 💻 Fullstack, Mobile & Web Developer  
 
