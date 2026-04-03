@@ -12,14 +12,8 @@ Welcome to my GitHub! I'm passionate about building scalable applications and co
 </div>
 
 ### Me in everyday:
-<p align="center" style="margin-top: 30px; margin-bottom: 30px;">
-  <img src="https://i1.sndcdn.com/artworks-2NSQLuOzfYFIuklP-2jIlCw-t1080x1080.jpg"
-       width="35%" style="vertical-align: middle; border: none;">
-
-  <span style="font-size: 100px; color: white; vertical-align: middle; font-weight: bold; margin: 0 15px; display: inline-block;">➔</span>
-
-  <img src="https://i.pinimg.com/736x/db/ac/c6/dbacc631a5e8fa57e27c6cf3ef49b6bd.jpg"
-       width="35%" style="vertical-align: middle; border: none;">
+<p align="center">
+  <img src="https://i1.sndcdn.com/artworks-2NSQLuOzfYFIuklP-2jIlCw-t1080x1080.jpg" width="30%" alt="Developer Meme" style="vertical-align: middle;" /> <span style="font-size: 80px; vertical-align: middle; margin: 0 20px;">➔</span> <img src="https://i.pinimg.com/736x/db/ac/c6/dbacc631a5e8fa57e27c6cf3ef49b6bd.jpg" width="30%" alt="Developer Meme" style="vertical-align: middle;" />
 </p>
 <p align="center">
   <i>" The heavy, endless struggle that seems pointless... <br>
