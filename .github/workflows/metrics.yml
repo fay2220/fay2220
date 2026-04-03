@@ -47,6 +47,6 @@ jobs:
           base: ""
           plugin_screenshot: yes
           plugin_screenshot_title: XKCD of the day
-          plugin_screenshot_url: https://medium.com/@mariavduran/we-all-are-sisyphus-in-this-new-era-and-that-is-a-good-thing-d04d96ae5540
+          plugin_screenshot_url: https://i.redd.it/76ixvodzznl81.png
           plugin_screenshot_selector: "#comic img"
 
