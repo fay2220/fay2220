@@ -1,9 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=Fay&desc=Fullstack,%20&descSize=20&descAlignY=70&fontSize=55&fontColor=00c9a7&descColor=gradient&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=Fay&desc=Developer%20Trainee&descSize=20&descAlignY=70&fontSize=55&fontColor=00c9a7&descColor=gradient&animation=fadeIn)
 
 🎓 Thammasat University | TU-SOFTEN 10  
 💻 Fullstack, Mobile & Web Developer  
-
-I build applications focused on improving quality of life through technology.
 
 Welcome to my GitHub! I'm passionate about building scalable applications and continuously expanding my technical toolkit. 
 
