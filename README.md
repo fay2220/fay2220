@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=250&section=header&text=Fay&desc=Fullstack%20Developer&descSize=20&descAlignY=70&fontSize=55&fontColor=00c9a7&descColor=00c9a7&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&height=250&section=header&text=Fay&desc=Fullstack%20Developer&descSize=20&descAlignY=70&fontSize=55&fontColor=00c9a7&descColor=00c9a7&animation=fadeIn)
 
 🎓 Thammasat University | TU-SOFTEN 10  
 💻 Fullstack, Mobile & Web Developer  
