@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm passionate about building scalable applications and co
 <div align="start">
   <img src="https://i1.sndcdn.com/artworks-2NSQLuOzfYFIuklP-2jIlCw-t1080x1080.jpg" width="30%" " />
   
-  <span style="font-size: 80px; margin: 0 15px;"> ➔ </span>
+ ➔
   
   <img src="https://i.pinimg.com/736x/db/ac/c6/dbacc631a5e8fa57e27c6cf3ef49b6bd.jpg" width="30%" />
 </div>
