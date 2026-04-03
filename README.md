@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00c9a7&height=220&section=header&text=Fay&fontSize=45&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 ## Hi there, I'm Fay 👋
 
 🎓 Thammasat University | TU-SOFTEN 10  
