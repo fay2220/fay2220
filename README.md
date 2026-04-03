@@ -13,5 +13,5 @@ Welcome to my GitHub! I'm passionate about building scalable applications and co
 
 
 <div align="center">
-  <img src="./metrics.plugin.screenshot.svg" width="80%" alt="XKCD of the day" />
+  <img src="https://miro.medium.com/1*zW3S02mX5hqkpBBx1YUWhQ.jpeg" width="80%" alt="Developer Meme" />
 </div>
