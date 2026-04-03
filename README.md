@@ -1,7 +1,5 @@
 ### Hiii I'm Fay ,Dev trainee
-🎓 Thammasat University | TU-SOFTEN 10  
-💻 Fullstack, Mobile & Web Developer  
-
+ 
 Welcome to my GitHub! I'm passionate about building scalable applications and continuously expanding my technical toolkit. 
 
 <h3 align="left">Languages and Tools:</h3>
