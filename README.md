@@ -1,5 +1,5 @@
 # Hi there, I'm Fay! 👋
-**TU-SOFTEN 10 | Fullstack, Mobile App & WebApp Developer**
+**I'm from Thammasat University,TU-SOFTEN 10 | Beginner :> Fullstack, Mobile App & WebApp Developer**
 
 Welcome to my GitHub! I'm passionate about building scalable applications and continuously expanding my technical toolkit. 
 
@@ -12,8 +12,17 @@ Welcome to my GitHub! I'm passionate about building scalable applications and co
 </div>
 
 ### Me in everyday:
-<div align="start">
-  <img src ="https://i1.sndcdn.com/artworks-2NSQLuOzfYFIuklP-2jIlCw-t1080x1080.jpg" width="30%" alt="Developer Meme" />
-  ###-->
-  <img src="https://i.pinimg.com/736x/db/ac/c6/dbacc631a5e8fa57e27c6cf3ef49b6bd.jpg" width="30%" alt="Developer Meme" />
-</div>
+<p align="center" style="margin-top: 30px; margin-bottom: 30px;">
+  <img src="https://media.licdn.com/dms/image/v2/D5612AQGr5lW9V78jKg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1726056345714?e=2147483647&v=beta&t=7y2Nl7M839_D6Nl2LgE4L0Lp9G5C3i5P1k1Y5S9y1Q" 
+       height="280" style="vertical-align: middle; border: none; margin: 0 15px;">
+  
+  <span style="font-size: 100px; color: white; vertical-align: middle; font-weight: bold; margin: 0 15px; display: inline-block;">➔</span>
+  
+  <img src="https://i.redd.it/now-what-lmao-v0-5w534y2a6k0c1.jpeg?auto=webp&s=f36f363c113e1c601f05786411546b5a3f3b97b0" 
+       height="280" style="vertical-align: middle; border: none; margin: 0 15px;">
+</p>
+<p align="center">
+  <i>" The heavy, endless struggle that seems pointless... <br>
+  Until the moment we finally overcome the problem. And then, the ultimate question arises: 'What to do next?' <br>
+  What did all that past effort even mean? "</i>
+</p>
